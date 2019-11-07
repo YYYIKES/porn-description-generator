@@ -1,0 +1,34 @@
+{% extends 'base.html' %}
+
+
+{% block head %}
+
+    <title>Porn Description Generator</title>
+
+{% endblock %}
+
+
+
+{% block body %}
+    
+    <div class="content">
+
+        <h1 style="color:#00e699;">Porn Description Generator</h1>
+            <p>Generates new <b>porn descriptions</b> based on an edited dataset of xhamster video descriptions uploaded between 2007-2016. The complete dataset is available from <a href="https://sexualitics.github.io/" target="_blank">Sexualitics</a>.</p>
+            <p style="color:#a6a6a6; font-size:9pt; line-height:14pt;"><i>Script written in Python3 using the Markovify package.
+            <br>Web app built using Flask.</i></p>
+            <p style="color:#a6a6a6; font-size:9pt; line-height:14pt;">Created by: <a href="https://github.com/ghxxst" target="_blank">GHXXST</a></p>
+
+        <form action="/" method="POST">
+            <input type="submit" name="generate_button" value="generate">
+        </form><br>
+        <div class="generated_description">
+            {% for statement in statement -%}
+            {{ statement }}
+            {%- endfor %}
+        </div>
+
+    </div>
+    
+
+{% endblock %}
