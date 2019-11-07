@@ -6,3 +6,6 @@
 *Web app built using Flask.*
 
 ### <a href="https://porn-description-generator.herokuapp.com/" target="_blank">Try the Web App!<a>
+
+<br>
+<img src="screenshots/porn-description-generator-screenshot.jpg" width="600">
