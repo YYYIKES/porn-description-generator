@@ -1,0 +1,4 @@
+*.html linguist-vendored
+*.txt linguist-vendored
+*.css linguist-vendored
+*.jpg linguist-vendored
