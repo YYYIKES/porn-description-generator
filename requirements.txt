@@ -6,4 +6,4 @@ Jinja2==2.11.3
 markovify==0.7.2
 MarkupSafe==1.1.1
 Unidecode==1.1.1
-Werkzeug==0.16.0
+Werkzeug==2.2.3
