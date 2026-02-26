@@ -1,0 +1,50 @@
+<li class="nav-item video-nav xh-dropdown has-child delay pop-menu-video current displayed-nav-item">
+                    <a data-statistic-name="Videos" href="https://xhamster.com/" class="trigger on-hover" eid1="3">Videos</a>
+                                            
+<ul class="dropdown">
+            <li>
+            <a data-statistic-name="Favorite Videos" href="https://xhamster.com/my/favorites/videos" eid1="4">
+                <i class="xh-icon heart cobalt"></i>
+                My Favorites            </a>
+        </li>
+                <li>
+            <a data-statistic-name="Best Videos" href="https://xhamster.com/best/weekly" eid1="5">
+                <i class="xh-icon like cobalt"></i>
+                Best Videos            </a>
+        </li>
+        <li>
+            <a data-statistic-name="Recommended Videos" href="https://xhamster.com/for-you" eid1="6">
+                <i class="xh-icon sidebar-magicwand cobalt"></i>
+                Recommended            </a>
+        </li>
+        <li>
+            <a data-statistic-name="Watch History" href="https://xhamster.com/my/watch-history" eid1="7">
+                <i class="xh-icon sidebar-watch-history cobalt"></i>
+                Watch History            </a>
+        </li>
+        <li class="separator"></li>
+                    <li>
+            <a data-statistic-name="Channel Lithuanian" href="https://xhamster.com/categories/lithuanian" eid1="8">
+                Lithuanian                    <div class="xh-flag lt"></div>
+            </a>
+        </li>
+                    <li>
+            <a data-statistic-name="Channel Amateur" href="https://xhamster.com/categories/amateur" eid1="9">
+                Amateur                            </a>
+        </li>
+                    <li>
+            <a data-statistic-name="Channel Mature" href="https://xhamster.com/categories/mature" eid1="10">
+                Mature                            </a>
+        </li>
+                    <li>
+            <a data-statistic-name="Channel Old &amp; Young" href="https://xhamster.com/categories/old-young" eid1="11">
+                Old &amp; Young                            </a>
+        </li>
+                    <li>
+            <a data-statistic-name="Channel Lesbian" href="https://xhamster.com/categories/lesbian" eid1="12">
+                Lesbian                            </a>
+        </li>
+        <li class="separator"></li>
+    <li><a data-statistic-name="All Categories" href="https://xhamster.com/categories" eid1="13">All categories</a></li>
+</ul>
+                                    </li>
